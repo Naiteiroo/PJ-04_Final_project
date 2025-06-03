@@ -27,14 +27,14 @@
 - Датасет содержит данные об объектах недвижимости США на [ресурсе](https://drive.google.com/file/d/11-ZNNIdcQ7TbT8Y0nsQ3Q0eiYQP__NIW/view)
 - Очищенный датасет [ресурсе](https://drive.google.com/file/d/1TIcsqdV9En1bacPW6DzTZOm9EOSvlqcg/view?usp=sharing)
 - Финальная версия датасета, очищенная с закодированными признаками [ресурсе](https://drive.google.com/file/d/1NhK_0BO6yTUhi5Uv8tgtPcvah07U7mYa/view?usp=sharing)
-- PJ-04_Дипломный_проект.ipynb - Jupiter Notebook с проектом на [ресурсе]() 
-- server.py - сервер на Flask размещен по [адресу]()
-- client.py - клиент для тестирования размещен по [адресу]()
+- PJ-04_Дипломный_проект.ipynb - Jupiter Notebook с проектом на [ресурсе](https://github.com/Naiteiroo/PJ-04_Final_project/blob/main/PJ-04_Дипломный_проект.ipynb) 
+- server.py - сервер на Flask размещен по [адресу](https://github.com/Naiteiroo/PJ-04_Final_project/blob/main/service/server.py)
+- client.py - клиент для тестирования размещен по [адресу](https://github.com/Naiteiroo/PJ-04_Final_project/blob/main/service/client.py)
 - сериализованная модель(model.pkl) размещена по [адресу](https://drive.google.com/file/d/1g0J3B2e-uwLcWHvfGqGY_PcUIv_sH91W/view?usp=sharing)
 - сериализованная модель(pipeline.pkl) размещена по [адресу](https://drive.google.com/file/d/1y0jX2NdwdlhR7aMW1k8OCoIDibGBhj_4/view?usp=sharing)
-- requirements.txt  - файл с необходимыми зависимостями размещен по [адресу]()
-- app.py - сервер в браузере размещен по [адресу]()
-- index.html - разметка страницы в браузере размещен по [адресу]()
+- requirements.txt  - файл с необходимыми зависимостями размещен по [адресу](https://github.com/Naiteiroo/PJ-04_Final_project/blob/main/requirements.txt)
+- app.py - сервер в браузере размещен по [адресу](https://github.com/Naiteiroo/PJ-04_Final_project/blob/main/service/app.py)
+- index.html - разметка страницы в браузере размещен по [адресу](https://github.com/Naiteiroo/PJ-04_Final_project/blob/main/service/templates/index.html)
 
 ### Этапы работы над проектом
 1. Ознакомиться со структурой данных.
